@@ -1,2 +1,2 @@
 # EtherMod
-Simple implementation of UDS Service for supporting test environments.
+Implementation of a proprietary standard to communicate with test environment devices over Ethernet.
